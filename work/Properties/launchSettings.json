@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "work": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
